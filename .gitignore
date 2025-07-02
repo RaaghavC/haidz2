@@ -1,0 +1,5 @@
+# Prevent nested git repositories
+**/.git
+
+# macOS system files
+.DS_Store

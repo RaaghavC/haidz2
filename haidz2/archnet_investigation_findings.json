@@ -1,0 +1,437 @@
+{
+  "iiif_manifests": [
+    "iiif",
+    "manifest.json",
+    {
+      "type": "script_content",
+      "content": "{\"props\":{\"pageProps\":{\"algoliaAppId\":\"ZPU971PZKC\",\"algoliaSearchKey\":\"8a6ae24beaa5f55705dd42b122554f0b\",\"algoliaIndex\":\"production\",\"algoliaSortedIndex\":\"production_by_type\",\"envName\":\"\",\"googleMapsApiKey\":\"AIzaSyAhZ53pCCSk_BnMGeTyw8evbvTaT2e7lm0\",\"content_type\":\"image/tiff\",\"content_url\":\"https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1a718e53-1808-4406-9875-240e027ffa4a/content\",\"content_download_url\":\"https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com..."
+    },
+    {
+      "type": "iiif_image",
+      "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1a718e53-1808-4406-9875-240e027ffa4a/iiif"
+    },
+    {
+      "type": "iiif_image",
+      "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/f80e6234-b461-4af3-b67f-34d50e987400/iiif"
+    },
+    {
+      "type": "iiif_image",
+      "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/85f64ca0-c0c6-476c-95eb-6810f5e1b446/iiif"
+    },
+    {
+      "type": "iiif_image",
+      "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6c6be7ea-5bc9-465d-987f-761262a2ce8d/iiif"
+    },
+    {
+      "type": "iiif_image",
+      "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/d5d34ed1-3f83-4ed9-bb0d-9a8ec099722b/iiif"
+    },
+    {
+      "type": "iiif_image",
+      "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6a9d60ac-3a5c-4266-a8ae-a9079946c609/iiif"
+    },
+    {
+      "type": "iiif_image",
+      "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/5a3f1fe7-7892-4717-8ad6-43cc801297fb/iiif"
+    }
+  ],
+  "api_endpoints": [
+    {
+      "url": "https://www.archnet.org/_next/data/f1bHOLHS59BnqxI_3Itwz/en-US.json",
+      "status": 200,
+      "content_type": "application/json",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.archnet.org/_next/data/f1bHOLHS59BnqxI_3Itwz/en-US.json",
+      "status": 200,
+      "content_type": "application/json",
+      "method": "HEAD"
+    },
+    {
+      "url": "https://www.archnet.org/_next/data/f1bHOLHS59BnqxI_3Itwz/en-US.json",
+      "status": 200,
+      "content_type": "application/json",
+      "method": "GET"
+    }
+  ],
+  "image_urls": [],
+  "metadata_patterns": [],
+  "detailed_records": [
+    {
+      "url": "https://www.archnet.org/sites/category/new/1",
+      "title": "Sites",
+      "metadata": {
+        "metadata_elements": 0,
+        "images": [
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/9c6ca9f1-c184-41f4-893c-4b733eb5e18c/iiif",
+            "alt": "Bayt Ghazaleh",
+            "width": 369,
+            "height": 370
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1bbad4a2-2139-4435-b135-71ff399d54d2/iiif",
+            "alt": "Sheesh Mahal Restoration - <p>Installing mirrors in the prototype area</p>",
+            "width": 369,
+            "height": 373
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/dc37124c-d1a7-43f2-b128-57d6b7c988d8/iiif",
+            "alt": "Sikh Era Temple Restoration - <p>View to Sikh Temple after restoration</p>",
+            "width": 369,
+            "height": 269
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/764bd5d0-5abf-4805-9d44-1b78502a1d01/iiif",
+            "alt": "Zepa Mosque - <p>In situe view of the Zepa Mosque and cemetery</p>",
+            "width": 369,
+            "height": 482
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/e4401110-ba15-4506-b502-90e852ef9125/iiif",
+            "alt": "Taslihan - <p>The ruins</p>",
+            "width": 369,
+            "height": 462
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/3810f84b-c632-4ae4-817a-76fc277b5d01/iiif",
+            "alt": "Sisman Ibrahim Pasha Mosque - <p>The Sisman Ibrahim Pasha Mosque from above, surrounded by the town of Pocitelj</p>",
+            "width": 369,
+            "height": 207
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/a3437a49-658d-452d-88fe-4b097228f961/iiif",
+            "alt": "Mosque at Qadam Sharif (Mission for Indian History and Archaeology)",
+            "width": 369,
+            "height": 341
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/87979be2-6931-427e-ba88-79d3e82968bc/iiif",
+            "alt": "King Abdullah I Mosque - View of the dome and stairs of the southern edifice",
+            "width": 369,
+            "height": 504
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/b36d9ffa-75db-4cbb-afc7-8652966d36e7/iiif",
+            "alt": "Picture Wall (northeast section) Restoration - <p>View along the northeast section of the Picture Wall showing completed work and ongoing work</p>",
+            "width": 369,
+            "height": 453
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/3ce95d43-32ec-43ef-9ebb-1f152fcabb1e/iiif",
+            "alt": "Loh Temple Restoration - <p>Aerial view over the structure</p>",
+            "width": 369,
+            "height": 336
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/4ee7445a-2af8-43cb-9a45-a1141ac2a7b6/iiif",
+            "alt": "Zepa Memorial Site  - <p>The Zepa Memorial Site is dedicated to those lost during the Zepa massacre.</p>",
+            "width": 369,
+            "height": 470
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/7fee8448-fea8-4182-b817-d8a290a26d29/iiif",
+            "alt": "Stara Cuprija - <p>Stara Cuprija from the side and above, vertically photographed.</p>",
+            "width": 369,
+            "height": 312
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/697f3510-0bec-4aa0-99fe-e48078c26d54/iiif",
+            "alt": "Sisman Ibrahim Pasha Hammam - <p>In situ view of the stone facade and domes</p>",
+            "width": 369,
+            "height": 343
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/10788133-6f51-40b5-a844-f38a6b3af9ce/iiif",
+            "alt": "Imperial Zenana Mosque Restoration - <p>Aerial view over Zenana Mosque</p>",
+            "width": 369,
+            "height": 323
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/a9050f49-99ab-4b04-9e72-f0808e4a22e2/iiif",
+            "alt": "Sehdara Pavilion Restoration - <p>Dome and interior views</p>",
+            "width": 369,
+            "height": 243
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/785de2f7-6d83-42ce-882f-df9f65e6f8f6/iiif",
+            "alt": "Rue Portugal - View of rue Portugal toward the Port",
+            "width": 369,
+            "height": 488
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/bf11b33f-c917-4a76-8f16-7d8aa1a84995/iiif",
+            "alt": "Tower House - <p>View of the tower from town over a forest.</p>",
+            "width": 369,
+            "height": 198
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/2eab262b-b01d-400c-a3b5-142e4f6fff62/iiif",
+            "alt": "Carsija Mosque - <p>Minaret of the Carsija Mosque towering over the town of Konjic</p>",
+            "width": 369,
+            "height": 199
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/053b9808-713e-4e2c-a262-1922cef460b6/iiif",
+            "alt": "Yousif Bin Ahmed Kanoo Mosque - View to the courtyard",
+            "width": 369,
+            "height": 456
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.archnet.org/sites/category/new/1",
+      "title": "New",
+      "metadata": {
+        "metadata_elements": 0,
+        "images": [
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/9c6ca9f1-c184-41f4-893c-4b733eb5e18c/iiif",
+            "alt": "Bayt Ghazaleh",
+            "width": 369,
+            "height": 424
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1bbad4a2-2139-4435-b135-71ff399d54d2/iiif",
+            "alt": "Sheesh Mahal Restoration - <p>Installing mirrors in the prototype area</p>",
+            "width": 369,
+            "height": 307
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/dc37124c-d1a7-43f2-b128-57d6b7c988d8/iiif",
+            "alt": "Sikh Era Temple Restoration - <p>View to Sikh Temple after restoration</p>",
+            "width": 369,
+            "height": 190
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/764bd5d0-5abf-4805-9d44-1b78502a1d01/iiif",
+            "alt": "Zepa Mosque - <p>In situe view of the Zepa Mosque and cemetery</p>",
+            "width": 369,
+            "height": 275
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/e4401110-ba15-4506-b502-90e852ef9125/iiif",
+            "alt": "Taslihan - <p>The ruins</p>",
+            "width": 369,
+            "height": 254
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/3810f84b-c632-4ae4-817a-76fc277b5d01/iiif",
+            "alt": "Sisman Ibrahim Pasha Mosque - <p>The Sisman Ibrahim Pasha Mosque from above, surrounded by the town of Pocitelj</p>",
+            "width": 369,
+            "height": 272
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/a3437a49-658d-452d-88fe-4b097228f961/iiif",
+            "alt": "Mosque at Qadam Sharif (Mission for Indian History and Archaeology)",
+            "width": 369,
+            "height": 224
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/87979be2-6931-427e-ba88-79d3e82968bc/iiif",
+            "alt": "King Abdullah I Mosque - View of the dome and stairs of the southern edifice",
+            "width": 369,
+            "height": 313
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/b36d9ffa-75db-4cbb-afc7-8652966d36e7/iiif",
+            "alt": "Picture Wall (northeast section) Restoration - <p>View along the northeast section of the Picture Wall showing completed work and ongoing work</p>",
+            "width": 369,
+            "height": 375
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/3ce95d43-32ec-43ef-9ebb-1f152fcabb1e/iiif",
+            "alt": "Loh Temple Restoration - <p>Aerial view over the structure</p>",
+            "width": 369,
+            "height": 437
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/4ee7445a-2af8-43cb-9a45-a1141ac2a7b6/iiif",
+            "alt": "Zepa Memorial Site  - <p>The Zepa Memorial Site is dedicated to those lost during the Zepa massacre.</p>",
+            "width": 369,
+            "height": 225
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/7fee8448-fea8-4182-b817-d8a290a26d29/iiif",
+            "alt": "Stara Cuprija - <p>Stara Cuprija from the side and above, vertically photographed.</p>",
+            "width": 369,
+            "height": 514
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/697f3510-0bec-4aa0-99fe-e48078c26d54/iiif",
+            "alt": "Sisman Ibrahim Pasha Hammam - <p>In situ view of the stone facade and domes</p>",
+            "width": 369,
+            "height": 248
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/10788133-6f51-40b5-a844-f38a6b3af9ce/iiif",
+            "alt": "Imperial Zenana Mosque Restoration - <p>Aerial view over Zenana Mosque</p>",
+            "width": 369,
+            "height": 373
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/a9050f49-99ab-4b04-9e72-f0808e4a22e2/iiif",
+            "alt": "Sehdara Pavilion Restoration - <p>Dome and interior views</p>",
+            "width": 369,
+            "height": 305
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/785de2f7-6d83-42ce-882f-df9f65e6f8f6/iiif",
+            "alt": "Rue Portugal - View of rue Portugal toward the Port",
+            "width": 369,
+            "height": 457
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/bf11b33f-c917-4a76-8f16-7d8aa1a84995/iiif",
+            "alt": "Tower House - <p>View of the tower from town over a forest.</p>",
+            "width": 369,
+            "height": 495
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/2eab262b-b01d-400c-a3b5-142e4f6fff62/iiif",
+            "alt": "Carsija Mosque - <p>Minaret of the Carsija Mosque towering over the town of Konjic</p>",
+            "width": 369,
+            "height": 387
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/053b9808-713e-4e2c-a262-1922cef460b6/iiif",
+            "alt": "Yousif Bin Ahmed Kanoo Mosque - View to the courtyard",
+            "width": 369,
+            "height": 270
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.archnet.org/sites/category/all/1",
+      "title": "All",
+      "metadata": {
+        "metadata_elements": 0,
+        "images": [
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6215ea57-09d9-4b19-8241-c342e6768a2a/iiif",
+            "alt": "0-14 Tower - Elevation",
+            "width": 369,
+            "height": 478
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/b0e89df4-60e4-4af2-8ab5-7c283c5a94a9/iiif",
+            "alt": "10 Saray El-Gezira Street - Detail of a balcony with ogee arche and linear decoration",
+            "width": 369,
+            "height": 189
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/dc669a2d-c130-41bd-9007-1e2a613931d1/iiif",
+            "alt": "1936 Development Plan for Damascus",
+            "width": 369,
+            "height": 508
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/2b15be19-9783-4073-95d8-4768fba270f6/iiif",
+            "alt": "2052-55 House Rehabilitation - Bedroom, BR",
+            "width": 369,
+            "height": 315
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/ae736cc7-4e02-41bd-ac50-f2664af1e5cd/iiif",
+            "alt": "24 North Jeddah Office Complex - West facade block A-B; anchoring the site : primordial-modernist abstractions; ecological, urban and human responses",
+            "width": 369,
+            "height": 204
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/b60bdab0-ba10-4b00-86a2-d071bae31e55/iiif",
+            "alt": "30 Houses - <p>North east view</p>",
+            "width": 369,
+            "height": 468
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/c6dbe9a6-7ee1-4b10-bb26-ca27b3e7552b/iiif",
+            "alt": "3500 Millimetre House - <p>View of the front house</p>",
+            "width": 369,
+            "height": 458
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/8ce2033b-22d0-40e6-9040-aa02a4acafcf/iiif",
+            "alt": "100 Cintra Street - Street view after restoration",
+            "width": 369,
+            "height": 400
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/f6720f1f-c64b-455e-a8ed-db1b2dc17134/iiif",
+            "alt": "1267 House Rehabilitation - <p>View along main façade, after rehabilitation</p>",
+            "width": 369,
+            "height": 194
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/4af1fd18-3d5f-4eb1-825b-35f744e5e480/iiif",
+            "alt": "1968 Master Plan for Damascus",
+            "width": 369,
+            "height": 208
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/5b44e754-225a-4d7b-9fdf-50aa25d7f13b/iiif",
+            "alt": "213 Jervois Road - <p>Street elevation, front façade of house</p>",
+            "width": 369,
+            "height": 476
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/5c91ab57-a3d2-4ea7-b7db-161de56fa374/iiif",
+            "alt": "290 House Rehabilitation - View to rooftop opening over courtyard",
+            "width": 369,
+            "height": 479
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/ce394ce1-aa56-4515-9596-70d1f18a2e4e/iiif",
+            "alt": "33rd Lane - Interior detail showing built in storage and view to courtyard",
+            "width": 369,
+            "height": 465
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/b9b0cad9-e504-486b-b174-2648871f4878/iiif",
+            "alt": "360° Leti Resort - West facing view of site",
+            "width": 369,
+            "height": 228
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/7740ad32-579c-48c8-8856-195915ed017b/iiif",
+            "alt": "10-12 Place de France - View of Place de France, facing south  ",
+            "width": 369,
+            "height": 469
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/eaa2fc70-20fa-472d-8d00-bc4ca5cdfb66/iiif",
+            "alt": "16-18 Nabatat Street - Main facade with the original decorative central element",
+            "width": 369,
+            "height": 346
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/76ec0082-9e27-4dea-ac39-d4d0c7a19bf3/iiif",
+            "alt": "200 Housing Units - View looking north to the complex",
+            "width": 369,
+            "height": 378
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/814390b6-9d05-4a29-88e2-56ec53321212/iiif",
+            "alt": "21 Schools in Benghazi - Construction site",
+            "width": 369,
+            "height": 364
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/59511274-dbc6-413f-a780-850744543d70/iiif",
+            "alt": "2nd circle - View of rotary and park.",
+            "width": 369,
+            "height": 302
+          },
+          {
+            "src": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/7aa8ed3d-9c89-45ec-878b-f15b989aaa24/iiif",
+            "alt": "345 Telenor Pakistan Headquarters",
+            "width": 369,
+            "height": 463
+          }
+        ]
+      }
+    }
+  ]
+}

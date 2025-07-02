@@ -1,0 +1,1292 @@
+{
+  "pageProps": {
+    "algoliaAppId": "ZPU971PZKC",
+    "algoliaSearchKey": "8a6ae24beaa5f55705dd42b122554f0b",
+    "algoliaIndex": "production",
+    "algoliaSortedIndex": "production_by_type",
+    "envName": "",
+    "googleMapsApiKey": "AIzaSyAhZ53pCCSk_BnMGeTyw8evbvTaT2e7lm0",
+    "content_type": "image/tiff",
+    "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1a718e53-1808-4406-9875-240e027ffa4a/content",
+    "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1a718e53-1808-4406-9875-240e027ffa4a/download",
+    "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1a718e53-1808-4406-9875-240e027ffa4a/iiif",
+    "content_inline_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1a718e53-1808-4406-9875-240e027ffa4a/inline",
+    "content_info_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1a718e53-1808-4406-9875-240e027ffa4a/info",
+    "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1a718e53-1808-4406-9875-240e027ffa4a/preview",
+    "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1a718e53-1808-4406-9875-240e027ffa4a/thumbnail",
+    "manifest_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1a718e53-1808-4406-9875-240e027ffa4a/manifest",
+    "id": 72,
+    "title": "Aga Khan Award for Architecture Shortlist Announced",
+    "subtitle": "16th Cycle, 2023-2025",
+    "body": "<p>The Aga Khan Award for Architecture has announced the shortlist for the 16th cycle of the triennial award. The shortlist is comprised of 19 projects in 15 countries, from Senegal to China, that were selected by an independent Master Jury from a pool of 369 nominated projects. The Aga Khan Award for Architecture was established by His Late Highness Prince Karim Aga Khan IV in 1977 to identify and encourage building concepts that successfully address the needs and aspirations of communities in which Muslims have a significant presence.</p><p><br></p>",
+    "url": "https://archnet.org/collections/2883",
+    "url_label": "Explore the shortlist",
+    "features_label": "The Shortlisted Projects Are",
+    "image_position": null,
+    "start_date": "2025-06-05T09:15:00.000Z",
+    "home_page_items": [
+      {
+        "id": 1272,
+        "item_id": 21984,
+        "item_type": "Site",
+        "label": "Campus Startup Lions by Kéré Architecture",
+        "subhead": "An educational and entrepreneurial hub in Turkana, Kenya",
+        "url": "",
+        "item": {
+          "primary_image": {
+            "id": 848251,
+            "child": {
+              "id": 700732,
+              "record_id": "IAA712700",
+              "published": true,
+              "hcp_item": false,
+              "award_winner": false,
+              "content_type": "image/tiff",
+              "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/f80e6234-b461-4af3-b67f-34d50e987400/content",
+              "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/f80e6234-b461-4af3-b67f-34d50e987400/download",
+              "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/f80e6234-b461-4af3-b67f-34d50e987400/iiif",
+              "content_inline_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/f80e6234-b461-4af3-b67f-34d50e987400/inline",
+              "content_info_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/f80e6234-b461-4af3-b67f-34d50e987400/info",
+              "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/f80e6234-b461-4af3-b67f-34d50e987400/preview",
+              "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/f80e6234-b461-4af3-b67f-34d50e987400/thumbnail",
+              "manifest_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/f80e6234-b461-4af3-b67f-34d50e987400/manifest",
+              "name": "Campus Startup Lions_201866.jpg",
+              "media_type_id": 9,
+              "contributor": "<p>Aga Khan Trust for Culture</p>",
+              "year": 2025,
+              "copyright": "© Aga Khan Trust for Culture / Christopher Wilton-Steer (photographer)",
+              "source": "<p>Aga Khan Trust for Culture</p>",
+              "caption": "<p>Partial view of the east façade, looking south. Woven straw shades, produced on site by the local community, are integrated into the window frames to shield the interior from direct sunlight.</p>",
+              "external_id": null,
+              "external_source": null,
+              "media_type": {
+                "id": 9,
+                "name": "digital photograph",
+                "kind": "image"
+              }
+            }
+          },
+          "id": 21984,
+          "record_id": "AS107970",
+          "published": true,
+          "hcp_item": false,
+          "award_winner": false,
+          "place_name": "Turkana",
+          "created_by_id": 6,
+          "country": {
+            "id": 115,
+            "name": "Kenya",
+            "un_code": "KE",
+            "latitude": "-0.023559",
+            "longitude": "37.906193"
+          },
+          "name": "Campus Startup Lions",
+          "distance": null
+        }
+      },
+      {
+        "id": 1273,
+        "item_id": 21986,
+        "item_type": "Site",
+        "label": "Denso Hall Rahguzar Project by Heritage Foundation Pakistan / Yasmeen Lari",
+        "subhead": "A heritage-led, eco-urban enclave in Karachi, Pakistan",
+        "url": "",
+        "item": {
+          "primary_image": {
+            "id": 848284,
+            "child": {
+              "id": 700757,
+              "record_id": "IAA712725",
+              "published": true,
+              "hcp_item": false,
+              "award_winner": false,
+              "content_type": "image/tiff",
+              "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/85f64ca0-c0c6-476c-95eb-6810f5e1b446/content",
+              "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/85f64ca0-c0c6-476c-95eb-6810f5e1b446/download",
+              "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/85f64ca0-c0c6-476c-95eb-6810f5e1b446/iiif",
+              "content_inline_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/85f64ca0-c0c6-476c-95eb-6810f5e1b446/inline",
+              "content_info_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/85f64ca0-c0c6-476c-95eb-6810f5e1b446/info",
+              "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/85f64ca0-c0c6-476c-95eb-6810f5e1b446/preview",
+              "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/85f64ca0-c0c6-476c-95eb-6810f5e1b446/thumbnail",
+              "manifest_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/85f64ca0-c0c6-476c-95eb-6810f5e1b446/manifest",
+              "name": "Denso Hall Rahguzar Project_201175.jpg",
+              "media_type_id": 9,
+              "contributor": "<p>Aga Khan Trust for Culture</p>",
+              "year": 2025,
+              "copyright": "© Aga Khan Trust for Culture / Usman Saqib Zuberi (photographer)",
+              "source": "<p>Aga Khan Trust for Culture</p>",
+              "caption": "<p>There are 12 historic buildings on the street, interspersed with later modern or contemporary buildings, which required various levels of façade cleaning and the removal of encroachments.</p>",
+              "external_id": null,
+              "external_source": null,
+              "media_type": {
+                "id": 9,
+                "name": "digital photograph",
+                "kind": "image"
+              }
+            }
+          },
+          "id": 21986,
+          "record_id": "AS107972",
+          "published": true,
+          "hcp_item": false,
+          "award_winner": false,
+          "place_name": "Karachi",
+          "created_by_id": 6,
+          "country": {
+            "id": 178,
+            "name": "Pakistan",
+            "un_code": "PK",
+            "latitude": "30.375321",
+            "longitude": "69.345116"
+          },
+          "name": "Denso Hall Rahguzar Project",
+          "distance": null
+        }
+      },
+      {
+        "id": 1274,
+        "item_id": 21977,
+        "item_type": "Site",
+        "label": "Islamic Centre Nurul Yaqin Mosque by Dave Orlando and Fandy Gunawan",
+        "subhead": "Replacing a mosque destroyed by a tsunami in Palu, Central Sulawesi, Indonesia, the structure is surrounded by a shallow pool that can be drained to accommodate more worshipers.",
+        "url": "",
+        "item": {
+          "primary_image": {
+            "id": 848171,
+            "child": {
+              "id": 700673,
+              "record_id": "IAA712641",
+              "published": true,
+              "hcp_item": false,
+              "award_winner": false,
+              "content_type": "image/tiff",
+              "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6c6be7ea-5bc9-465d-987f-761262a2ce8d/content",
+              "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6c6be7ea-5bc9-465d-987f-761262a2ce8d/download",
+              "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6c6be7ea-5bc9-465d-987f-761262a2ce8d/iiif",
+              "content_inline_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6c6be7ea-5bc9-465d-987f-761262a2ce8d/inline",
+              "content_info_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6c6be7ea-5bc9-465d-987f-761262a2ce8d/info",
+              "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6c6be7ea-5bc9-465d-987f-761262a2ce8d/preview",
+              "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6c6be7ea-5bc9-465d-987f-761262a2ce8d/thumbnail",
+              "manifest_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6c6be7ea-5bc9-465d-987f-761262a2ce8d/manifest",
+              "name": "Islamic Centre Nurul Yaqin Mosque_200217.jpg",
+              "media_type_id": 9,
+              "contributor": "<p>Aga Khan Trust for Culture</p>",
+              "year": 2025,
+              "copyright": "© Aga Khan Trust for Culture / Andreas Perbowo Widityawan (photographer)",
+              "source": "<p>Aga Khan Trust for Culture</p>",
+              "caption": "<p>The siting of the masses, their spatial flow, and the integration of indigenous landscapes with the use of bodies of water establish strong references to iconic Islamic works of architecture.</p>",
+              "external_id": null,
+              "external_source": null,
+              "media_type": {
+                "id": 9,
+                "name": "digital photograph",
+                "kind": "image"
+              }
+            }
+          },
+          "id": 21977,
+          "record_id": "AS107963",
+          "published": true,
+          "hcp_item": false,
+          "award_winner": false,
+          "place_name": "Palu",
+          "created_by_id": 6,
+          "country": {
+            "id": 101,
+            "name": "Indonesia",
+            "un_code": "ID",
+            "latitude": "-0.789275",
+            "longitude": "113.921327"
+          },
+          "name": "Islamic Centre Nurul Yaqin Mosque",
+          "distance": null
+        }
+      },
+      {
+        "id": 1275,
+        "item_id": 21980,
+        "item_type": "Site",
+        "label": "Jahad Metro Plaza by KA Architecture Studio",
+        "subhead": "Designed for pedestrians and built using locally-made brick, the project replaced a less suitable structure in Tehran, Iran",
+        "url": "",
+        "item": {
+          "primary_image": {
+            "id": 848215,
+            "child": {
+              "id": 700705,
+              "record_id": "IAA712673",
+              "published": true,
+              "hcp_item": false,
+              "award_winner": false,
+              "content_type": "image/tiff",
+              "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/d5d34ed1-3f83-4ed9-bb0d-9a8ec099722b/content",
+              "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/d5d34ed1-3f83-4ed9-bb0d-9a8ec099722b/download",
+              "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/d5d34ed1-3f83-4ed9-bb0d-9a8ec099722b/iiif",
+              "content_inline_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/d5d34ed1-3f83-4ed9-bb0d-9a8ec099722b/inline",
+              "content_info_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/d5d34ed1-3f83-4ed9-bb0d-9a8ec099722b/info",
+              "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/d5d34ed1-3f83-4ed9-bb0d-9a8ec099722b/preview",
+              "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/d5d34ed1-3f83-4ed9-bb0d-9a8ec099722b/thumbnail",
+              "manifest_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/d5d34ed1-3f83-4ed9-bb0d-9a8ec099722b/manifest",
+              "name": "Jahad Metro Plaza_203702.jpg",
+              "media_type_id": 9,
+              "contributor": "<p>Aga Khan Trust for Culture</p>",
+              "year": 2025,
+              "copyright": "© Aga Khan Trust for Culture / Deed Studio (photographer)",
+              "source": "<p>Aga Khan Trust for Culture</p>",
+              "caption": "<p>By adding stepped seating and low brick benches, the architects removed the need for loose furnishing and created inviting areas for locals and commuters to pause.</p>",
+              "external_id": null,
+              "external_source": null,
+              "media_type": {
+                "id": 9,
+                "name": "digital photograph",
+                "kind": "image"
+              }
+            }
+          },
+          "id": 21980,
+          "record_id": "AS107966",
+          "published": true,
+          "hcp_item": false,
+          "award_winner": false,
+          "place_name": "Tehran",
+          "created_by_id": 6,
+          "country": {
+            "id": 108,
+            "name": "Iran",
+            "un_code": "IR",
+            "latitude": "32.427908",
+            "longitude": "53.688046"
+          },
+          "name": "Jahad Metro Plaza",
+          "distance": null
+        }
+      },
+      {
+        "id": 1276,
+        "item_id": 21982,
+        "item_type": "Site",
+        "label": "Khan Jaljulia Restoration by Elias Khuri",
+        "subhead": "Situated among the remains of a fourteenth century Khan in Jaljulia, Israel, the project reconnects the people to their cultural heritage by transforming the deserted historical site into a vibrant public space",
+        "url": "",
+        "item": {
+          "primary_image": {
+            "id": 848238,
+            "child": {
+              "id": 700722,
+              "record_id": "IAA712690",
+              "published": true,
+              "hcp_item": false,
+              "award_winner": false,
+              "content_type": "image/tiff",
+              "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6a9d60ac-3a5c-4266-a8ae-a9079946c609/content",
+              "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6a9d60ac-3a5c-4266-a8ae-a9079946c609/download",
+              "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6a9d60ac-3a5c-4266-a8ae-a9079946c609/iiif",
+              "content_inline_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6a9d60ac-3a5c-4266-a8ae-a9079946c609/inline",
+              "content_info_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6a9d60ac-3a5c-4266-a8ae-a9079946c609/info",
+              "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6a9d60ac-3a5c-4266-a8ae-a9079946c609/preview",
+              "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6a9d60ac-3a5c-4266-a8ae-a9079946c609/thumbnail",
+              "manifest_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6a9d60ac-3a5c-4266-a8ae-a9079946c609/manifest",
+              "name": "Khan Jaljulia Restoration_201567.jpg",
+              "media_type_id": 9,
+              "contributor": "<p>Aga Khan Trust for Culture</p>",
+              "year": 2025,
+              "copyright": "© Aga Khan Trust for Culture / Mikaela Burstow (photographer)",
+              "source": "<p>Aga Khan Trust for Culture</p>",
+              "caption": "<p>The project draws on the modest design of the historical khan for the simple and low-cost construction plan. In the centre of the site, a new square platform of 367 m2 has been added that refers to the colonnaded courtyards of Arab mosques and that will in the future host exhibition stalls. It is based on a simple construction system using a grid of columns, found in the khan’s original design.</p>",
+              "external_id": null,
+              "external_source": null,
+              "media_type": {
+                "id": 9,
+                "name": "digital photograph",
+                "kind": "image"
+              }
+            }
+          },
+          "id": 21982,
+          "record_id": "AS107968",
+          "published": true,
+          "hcp_item": false,
+          "award_winner": false,
+          "place_name": "Jaljulia",
+          "created_by_id": 6,
+          "country": {
+            "id": 103,
+            "name": "Israel",
+            "un_code": "IL",
+            "latitude": "31.046051",
+            "longitude": "34.851612"
+          },
+          "name": "Khan Jaljulia Restoration",
+          "distance": null
+        }
+      },
+      {
+        "id": 1277,
+        "item_id": 21974,
+        "item_type": "Site",
+        "label": "Khudi Bari by Marina Tabassum Architects",
+        "subhead": "Deployed a locations around Bangladesh, these replicable structures  can be assembled, disassembled, and reassembled in response to the needs of communities affected by climatic and geographic changes",
+        "url": "",
+        "item": {
+          "primary_image": {
+            "id": 848119,
+            "child": {
+              "id": 700640,
+              "record_id": "IAA712608",
+              "published": true,
+              "hcp_item": false,
+              "award_winner": false,
+              "content_type": "image/tiff",
+              "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/5a3f1fe7-7892-4717-8ad6-43cc801297fb/content",
+              "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/5a3f1fe7-7892-4717-8ad6-43cc801297fb/download",
+              "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/5a3f1fe7-7892-4717-8ad6-43cc801297fb/iiif",
+              "content_inline_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/5a3f1fe7-7892-4717-8ad6-43cc801297fb/inline",
+              "content_info_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/5a3f1fe7-7892-4717-8ad6-43cc801297fb/info",
+              "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/5a3f1fe7-7892-4717-8ad6-43cc801297fb/preview",
+              "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/5a3f1fe7-7892-4717-8ad6-43cc801297fb/thumbnail",
+              "manifest_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/5a3f1fe7-7892-4717-8ad6-43cc801297fb/manifest",
+              "name": "Khudi Bari_202977.jpg",
+              "media_type_id": 9,
+              "contributor": "<p>Aga Khan Trust for Culture</p>",
+              "year": 2025,
+              "copyright": "© Aga Khan Trust for Culture / City Syntax (F. M. Faruque Abdullah Shawon, H. M. Fozla Rabby Apurbo)",
+              "source": "<p>Aga Khan Trust for Culture</p>",
+              "caption": "<p>People living on these ephemeral shoals are vulnerable to floods and land erosion. The distinctive two-story Khudi Bari structure enables them to stay through the rainy season, transforming how they inhabit the char.</p>",
+              "external_id": null,
+              "external_source": null,
+              "media_type": {
+                "id": 9,
+                "name": "digital photograph",
+                "kind": "image"
+              }
+            }
+          },
+          "id": 21974,
+          "record_id": "AS107960",
+          "published": true,
+          "hcp_item": false,
+          "award_winner": false,
+          "place_name": "Various locations",
+          "created_by_id": 6,
+          "country": {
+            "id": 19,
+            "name": "Bangladesh",
+            "un_code": "BD",
+            "latitude": "23.684994",
+            "longitude": "90.356331"
+          },
+          "name": "Khudi Bari",
+          "distance": null
+        }
+      },
+      {
+        "id": 1278,
+        "item_id": 21981,
+        "item_type": "Site",
+        "label": "Majara Complex and Community Redevelopment by ZAV Architects / Mohamadreza Ghodousi",
+        "subhead": "Known for its colorful domes dotting the unique landscape of Hormuz, Iran, the project provides sustainable accommodations for tourists",
+        "url": "",
+        "item": {
+          "primary_image": {
+            "id": 848223,
+            "child": {
+              "id": 700709,
+              "record_id": "IAA712677",
+              "published": true,
+              "hcp_item": false,
+              "award_winner": false,
+              "content_type": "image/tiff",
+              "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/82ce0f6e-c291-40bf-9cb0-96cbfc003660/content",
+              "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/82ce0f6e-c291-40bf-9cb0-96cbfc003660/download",
+              "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/82ce0f6e-c291-40bf-9cb0-96cbfc003660/iiif",
+              "content_inline_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/82ce0f6e-c291-40bf-9cb0-96cbfc003660/inline",
+              "content_info_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/82ce0f6e-c291-40bf-9cb0-96cbfc003660/info",
+              "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/82ce0f6e-c291-40bf-9cb0-96cbfc003660/preview",
+              "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/82ce0f6e-c291-40bf-9cb0-96cbfc003660/thumbnail",
+              "manifest_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/82ce0f6e-c291-40bf-9cb0-96cbfc003660/manifest",
+              "name": "Majara Residence_203403.jpg",
+              "media_type_id": 9,
+              "contributor": "<p>Aga Khan Trust for Culture</p>",
+              "year": 2025,
+              "copyright": "© Aga Khan Trust for Culture / Deed Studio (photographer)",
+              "source": "<p>Aga Khan Trust for Culture</p>",
+              "caption": "<p>Vaulted and domed structures, such as those used in local water-cooling reservoirs, create shaded areas that significantly reduce temperatures. Additionally, their curved surfaces help neutralise the destructive effects of the wind.</p>",
+              "external_id": null,
+              "external_source": null,
+              "media_type": {
+                "id": 9,
+                "name": "digital photograph",
+                "kind": "image"
+              }
+            }
+          },
+          "id": 21981,
+          "record_id": "AS107967",
+          "published": true,
+          "hcp_item": false,
+          "award_winner": false,
+          "place_name": "Hormoz",
+          "created_by_id": 6,
+          "country": {
+            "id": 108,
+            "name": "Iran",
+            "un_code": "IR",
+            "latitude": "32.427908",
+            "longitude": "53.688046"
+          },
+          "name": "Majara Complex and Community Redevelopment",
+          "distance": null
+        }
+      },
+      {
+        "id": 1279,
+        "item_id": 21978,
+        "item_type": "Site",
+        "label": "Microlibraries by SHAU / Daliana Suryawinata, Florian Heinzelmann",
+        "subhead": "Six of the 100 envision instances of these environmentally friendly project have been built in various communities throughout Indonesia",
+        "url": "",
+        "item": {
+          "primary_image": {
+            "id": 848191,
+            "child": {
+              "id": 700689,
+              "record_id": "IAA712657",
+              "published": true,
+              "hcp_item": false,
+              "award_winner": false,
+              "content_type": "image/tiff",
+              "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/79cddef1-e27d-4715-b4c2-a8c3df60f663/content",
+              "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/79cddef1-e27d-4715-b4c2-a8c3df60f663/download",
+              "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/79cddef1-e27d-4715-b4c2-a8c3df60f663/iiif",
+              "content_inline_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/79cddef1-e27d-4715-b4c2-a8c3df60f663/inline",
+              "content_info_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/79cddef1-e27d-4715-b4c2-a8c3df60f663/info",
+              "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/79cddef1-e27d-4715-b4c2-a8c3df60f663/preview",
+              "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/79cddef1-e27d-4715-b4c2-a8c3df60f663/thumbnail",
+              "manifest_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/79cddef1-e27d-4715-b4c2-a8c3df60f663/manifest",
+              "name": "Microlibrary Warak Kayu_200090.jpg",
+              "media_type_id": 9,
+              "contributor": "<p>Aga Khan Trust for Culture</p>",
+              "year": 2025,
+              "copyright": "© Aga Khan Trust for Culture / Andreas Perbowo Widityawan (photographer)",
+              "source": "<p>Aga Khan Trust for Culture</p>",
+              "caption": "<p>General view of the east and south façades of Warak Kayu, which has become one of Semarang's unmissable buildings. Its inspiration was drawn from Semarang's Warak Ngendog, a dragon-like entity. Reproductions of the mythical beast are usually paraded through the city to welcome the arrival of the month of Ramadan, during the Dugderan festival.</p>",
+              "external_id": null,
+              "external_source": null,
+              "media_type": {
+                "id": 9,
+                "name": "digital photograph",
+                "kind": "image"
+              }
+            }
+          },
+          "id": 21978,
+          "record_id": "AS107964",
+          "published": true,
+          "hcp_item": false,
+          "award_winner": false,
+          "place_name": "Various locations",
+          "created_by_id": 6,
+          "country": {
+            "id": 101,
+            "name": "Indonesia",
+            "un_code": "ID",
+            "latitude": "-0.789275",
+            "longitude": "113.921327"
+          },
+          "name": "Microlibraries",
+          "distance": null
+        }
+      },
+      {
+        "id": 1280,
+        "item_id": 21987,
+        "item_type": "Site",
+        "label": "Morocco Pavilion Expo Dubai 2020 by Oualalou + Choi",
+        "subhead": "Built for Expo Dubai 2020 in the UAE, but meant to be used as a cultural facility, thereafter, the pavilion pioneered large-scale rammed earth construction methods",
+        "url": "",
+        "item": {
+          "primary_image": {
+            "id": 848294,
+            "child": {
+              "id": 700764,
+              "record_id": "IAA712732",
+              "published": true,
+              "hcp_item": false,
+              "award_winner": false,
+              "content_type": "image/tiff",
+              "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/c13e4b5a-4642-4a20-b1b5-eaa5539bd5c6/content",
+              "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/c13e4b5a-4642-4a20-b1b5-eaa5539bd5c6/download",
+              "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/c13e4b5a-4642-4a20-b1b5-eaa5539bd5c6/iiif",
+              "content_inline_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/c13e4b5a-4642-4a20-b1b5-eaa5539bd5c6/inline",
+              "content_info_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/c13e4b5a-4642-4a20-b1b5-eaa5539bd5c6/info",
+              "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/c13e4b5a-4642-4a20-b1b5-eaa5539bd5c6/preview",
+              "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/c13e4b5a-4642-4a20-b1b5-eaa5539bd5c6/thumbnail",
+              "manifest_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/c13e4b5a-4642-4a20-b1b5-eaa5539bd5c6/manifest",
+              "name": "Morocco Pavilion Expo Dubai 2020_204297.jpg",
+              "media_type_id": 9,
+              "contributor": "<p>Aga Khan Trust for Culture</p>",
+              "year": 2025,
+              "copyright": "© Aga Khan Trust for Culture / Deed Studio (photographer)",
+              "source": "<p>Aga Khan Trust for Culture</p>",
+              "caption": "<p>Designed to outlive the Expo 2020 and to be converted into a cultural complex, the pavilion pioneers the advancement of large-scale rammed earth construction methods.</p>",
+              "external_id": null,
+              "external_source": null,
+              "media_type": {
+                "id": 9,
+                "name": "digital photograph",
+                "kind": "image"
+              }
+            }
+          },
+          "id": 21987,
+          "record_id": "AS107973",
+          "published": true,
+          "hcp_item": false,
+          "award_winner": false,
+          "place_name": "Dubai",
+          "created_by_id": 6,
+          "country": {
+            "id": 2,
+            "name": "United Arab Emirates",
+            "un_code": "AE",
+            "latitude": "23.424076",
+            "longitude": "53.847818"
+          },
+          "name": "Morocco Pavilion Expo Dubai 2020",
+          "distance": null
+        }
+      },
+      {
+        "id": 1281,
+        "item_id": 21993,
+        "item_type": "Site",
+        "label": " Rami Library by Han Tümertekin Design & Consultancy",
+        "subhead": "The largest library in Istanbul is housed in the 18th-century Rami Barracks, adapted to preserve the original spatial qualities of the structure while accommodating the new library functions",
+        "url": "",
+        "item": {
+          "primary_image": {
+            "id": 848463,
+            "child": {
+              "id": 700831,
+              "record_id": "IAA712799",
+              "published": true,
+              "hcp_item": false,
+              "award_winner": false,
+              "content_type": "image/tiff",
+              "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/36e94b6b-1d54-4dbf-87a0-ee7e4c2b2fb0/content",
+              "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/36e94b6b-1d54-4dbf-87a0-ee7e4c2b2fb0/download",
+              "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/36e94b6b-1d54-4dbf-87a0-ee7e4c2b2fb0/iiif",
+              "content_inline_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/36e94b6b-1d54-4dbf-87a0-ee7e4c2b2fb0/inline",
+              "content_info_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/36e94b6b-1d54-4dbf-87a0-ee7e4c2b2fb0/info",
+              "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/36e94b6b-1d54-4dbf-87a0-ee7e4c2b2fb0/preview",
+              "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/36e94b6b-1d54-4dbf-87a0-ee7e4c2b2fb0/thumbnail",
+              "manifest_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/36e94b6b-1d54-4dbf-87a0-ee7e4c2b2fb0/manifest",
+              "name": "Rami Library_199842.jpg",
+              "media_type_id": 9,
+              "contributor": "<p>Aga Khan Trust for Culture</p>",
+              "year": 2025,
+              "copyright": "© Aga Khan Trust for Culture / Cemal Emden (photographer)",
+              "source": "<p>Aga Khan Trust for Culture</p>",
+              "caption": "<p>New elements, such as floors and ceilings, were introduced in a self-supporting way, avoiding any physical alteration to the historic structure.</p>",
+              "external_id": null,
+              "external_source": null,
+              "media_type": {
+                "id": 9,
+                "name": "digital photograph",
+                "kind": "image"
+              }
+            }
+          },
+          "id": 21993,
+          "record_id": "AS107979",
+          "published": true,
+          "hcp_item": false,
+          "award_winner": false,
+          "place_name": "Istanbul",
+          "created_by_id": 6,
+          "country": {
+            "id": 225,
+            "name": "Türkiye",
+            "un_code": "TR",
+            "latitude": "38.963745",
+            "longitude": "35.243322"
+          },
+          "name": "Rami Library",
+          "distance": null
+        }
+      },
+      {
+        "id": 1282,
+        "item_id": 21992,
+        "item_type": "Site",
+        "label": "Rehabilitation and Extension of Dakar Railway Station by Ga2D",
+        "subhead": "Built for passengers of a new express railway line in Dakar, Senegal, the station creates a deliberate contrast between the old and new structures, and give the forecourt back to pedestrians",
+        "url": "",
+        "item": {
+          "primary_image": {
+            "id": 848443,
+            "child": {
+              "id": 700815,
+              "record_id": "IAA712783",
+              "published": true,
+              "hcp_item": false,
+              "award_winner": false,
+              "content_type": "image/tiff",
+              "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6e209aff-bd07-4fa6-a3a1-4274de90a8c4/content",
+              "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6e209aff-bd07-4fa6-a3a1-4274de90a8c4/download",
+              "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6e209aff-bd07-4fa6-a3a1-4274de90a8c4/iiif",
+              "content_inline_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6e209aff-bd07-4fa6-a3a1-4274de90a8c4/inline",
+              "content_info_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6e209aff-bd07-4fa6-a3a1-4274de90a8c4/info",
+              "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6e209aff-bd07-4fa6-a3a1-4274de90a8c4/preview",
+              "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6e209aff-bd07-4fa6-a3a1-4274de90a8c4/thumbnail",
+              "manifest_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6e209aff-bd07-4fa6-a3a1-4274de90a8c4/manifest",
+              "name": "Rehabilitation and Extension of Dakar Railway Station_198532.jpg",
+              "media_type_id": 9,
+              "contributor": "<p>Aga Khan Trust for Culture</p>",
+              "year": 2025,
+              "copyright": "© Aga Khan Trust for Culture / Sylvain Cherkaoui (photographer)",
+              "source": "<p>Aga Khan Trust for Culture</p>",
+              "caption": "<p>Façade of the restored train station. The paintwork on the façades had varied considerable over time. The architects conducted extensive research to ensure the chosen colours corresponded to the original aspect of the building.</p>",
+              "external_id": null,
+              "external_source": null,
+              "media_type": {
+                "id": 9,
+                "name": "digital photograph",
+                "kind": "image"
+              }
+            }
+          },
+          "id": 21992,
+          "record_id": "AS107978",
+          "published": true,
+          "hcp_item": false,
+          "award_winner": false,
+          "place_name": "Dakar",
+          "created_by_id": 6,
+          "country": {
+            "id": 205,
+            "name": "Senegal",
+            "un_code": "SN",
+            "latitude": "14.497401",
+            "longitude": "-14.452362"
+          },
+          "name": "Rehabilitation and Extension of Dakar Railway Station",
+          "distance": null
+        }
+      },
+      {
+        "id": 1283,
+        "item_id": 21976,
+        "item_type": "Site",
+        "label": "Revitalisation of Historic Esna, by Takween Integrated Community Development",
+        "subhead": "The project transformed the city of Esna, Egypt from a neglected historical site centered on the Ptolemaic Temple of Khnum into a prospering historic city. ",
+        "url": "",
+        "item": {
+          "primary_image": {
+            "id": 848148,
+            "child": {
+              "id": 700664,
+              "record_id": "IAA712632",
+              "published": true,
+              "hcp_item": false,
+              "award_winner": false,
+              "content_type": "image/tiff",
+              "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/7d5afdcc-5b04-45e4-9833-f300689de37b/content",
+              "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/7d5afdcc-5b04-45e4-9833-f300689de37b/download",
+              "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/7d5afdcc-5b04-45e4-9833-f300689de37b/iiif",
+              "content_inline_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/7d5afdcc-5b04-45e4-9833-f300689de37b/inline",
+              "content_info_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/7d5afdcc-5b04-45e4-9833-f300689de37b/info",
+              "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/7d5afdcc-5b04-45e4-9833-f300689de37b/preview",
+              "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/7d5afdcc-5b04-45e4-9833-f300689de37b/thumbnail",
+              "manifest_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/7d5afdcc-5b04-45e4-9833-f300689de37b/manifest",
+              "name": "Revitalisation of Historic Esna_204549.jpg",
+              "media_type_id": 9,
+              "contributor": "<p>Aga Khan Trust for Culture</p>",
+              "year": 2021,
+              "copyright": "© 2021 Takween ICD / Ahmed Mostafa",
+              "source": "<p>Aga Khan Trust for Culture</p>",
+              "caption": "<p>General view of a significant building, with al-Qisariyya Traditional Street Market after restoration and upgrading. Initiated in 2016, the project was conceived not only as a response to urban decay, but as a strategic intervention designed to reposition Esna as a model for heritage-led urban regeneration in medium-sized Egyptian cities.</p>",
+              "external_id": null,
+              "external_source": null,
+              "media_type": {
+                "id": 9,
+                "name": "digital photograph",
+                "kind": "image"
+              }
+            }
+          },
+          "id": 21976,
+          "record_id": "AS107962",
+          "published": true,
+          "hcp_item": false,
+          "award_winner": false,
+          "place_name": "Esna",
+          "created_by_id": 6,
+          "country": {
+            "id": 65,
+            "name": "Egypt",
+            "un_code": "EG",
+            "latitude": "26.820553",
+            "longitude": "30.802498"
+          },
+          "name": "Revitalisation of Historic Esna",
+          "distance": null
+        }
+      },
+      {
+        "id": 1284,
+        "item_id": 21985,
+        "item_type": "Site",
+        "label": "Revitalisation of Lalla Yeddouna Square by Mossessian Architecture and Yassir Khalil Studio",
+        "subhead": "This project reconnects the square to the river running through the center of the city and enhances pedestrian circulation by both preserving existing structures and creating new ones",
+        "url": "",
+        "item": {
+          "primary_image": {
+            "id": 848263,
+            "child": {
+              "id": 700740,
+              "record_id": "IAA712708",
+              "published": true,
+              "hcp_item": false,
+              "award_winner": false,
+              "content_type": "image/tiff",
+              "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1e12dc7e-fd2a-4073-b7d4-5ef62b3b9604/content",
+              "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1e12dc7e-fd2a-4073-b7d4-5ef62b3b9604/download",
+              "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1e12dc7e-fd2a-4073-b7d4-5ef62b3b9604/iiif",
+              "content_inline_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1e12dc7e-fd2a-4073-b7d4-5ef62b3b9604/inline",
+              "content_info_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1e12dc7e-fd2a-4073-b7d4-5ef62b3b9604/info",
+              "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1e12dc7e-fd2a-4073-b7d4-5ef62b3b9604/preview",
+              "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1e12dc7e-fd2a-4073-b7d4-5ef62b3b9604/thumbnail",
+              "manifest_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1e12dc7e-fd2a-4073-b7d4-5ef62b3b9604/manifest",
+              "name": "Lalla Yeddouna Square_202405.jpg",
+              "media_type_id": 9,
+              "contributor": "<p>Aga Khan Trust for Culture</p>",
+              "year": 2025,
+              "copyright": "© Aga Khan Trust for Culture / Amine Houari (photographer)",
+              "source": "<p>Aga Khan Trust for Culture</p>",
+              "caption": "<p>Carried out between 2010 and 2019, the project transformed a severely degraded riverside area into a multifunctional urban node designed to encourage pedestrian circulation.</p>",
+              "external_id": null,
+              "external_source": null,
+              "media_type": {
+                "id": 9,
+                "name": "digital photograph",
+                "kind": "image"
+              }
+            }
+          },
+          "id": 21985,
+          "record_id": "AS107971",
+          "published": true,
+          "hcp_item": false,
+          "award_winner": false,
+          "place_name": "Fes",
+          "created_by_id": 6,
+          "country": {
+            "id": 137,
+            "name": "Morocco",
+            "un_code": "MA",
+            "latitude": "31.791702",
+            "longitude": "-7.09262"
+          },
+          "name": "Revitalisation of Lalla Yeddouna Square",
+          "distance": null
+        }
+      },
+      {
+        "id": 1285,
+        "item_id": 21991,
+        "item_type": "Site",
+        "label": "Shamalat Cultural Centre by Syn Architects / Sara Alissa, Nojoud Alsudairi",
+        "subhead": "Developed from an old mud house on the periphery of Diriyah in Riyadh, Saudi Arabia, the project integrated historic spaces into everyday life",
+        "url": "",
+        "item": {
+          "primary_image": {
+            "id": 848355,
+            "child": {
+              "id": 700809,
+              "record_id": "IAA712777",
+              "published": true,
+              "hcp_item": false,
+              "award_winner": false,
+              "content_type": "image/tiff",
+              "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/75a0a103-46d4-49e4-ad72-dbac2b8da441/content",
+              "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/75a0a103-46d4-49e4-ad72-dbac2b8da441/download",
+              "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/75a0a103-46d4-49e4-ad72-dbac2b8da441/iiif",
+              "content_inline_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/75a0a103-46d4-49e4-ad72-dbac2b8da441/inline",
+              "content_info_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/75a0a103-46d4-49e4-ad72-dbac2b8da441/info",
+              "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/75a0a103-46d4-49e4-ad72-dbac2b8da441/preview",
+              "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/75a0a103-46d4-49e4-ad72-dbac2b8da441/thumbnail",
+              "manifest_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/75a0a103-46d4-49e4-ad72-dbac2b8da441/manifest",
+              "name": "Shamalat Cultural Centre_201809.jpg",
+              "media_type_id": 9,
+              "contributor": "<p>Aga Khan Trust for Culture </p>",
+              "year": 2025,
+              "copyright": "<p>© Aga Khan Trust for Culture / Hassan Al Shatti (photographer)</p>",
+              "source": "<p>Aga Khan Trust for Culture </p>",
+              "caption": null,
+              "external_id": null,
+              "external_source": null,
+              "media_type": {
+                "id": 9,
+                "name": "digital photograph",
+                "kind": "image"
+              }
+            }
+          },
+          "id": 21991,
+          "record_id": "AS107977",
+          "published": true,
+          "hcp_item": false,
+          "award_winner": false,
+          "place_name": "Riyadh",
+          "created_by_id": 6,
+          "country": {
+            "id": 193,
+            "name": "Saudi Arabia",
+            "un_code": "SA",
+            "latitude": "23.885942",
+            "longitude": "45.079162"
+          },
+          "name": "Shamalat Cultural Centre",
+          "distance": null
+        }
+      },
+      {
+        "id": 1286,
+        "item_id": 21979,
+        "item_type": "Site",
+        "label": "The Arc at Green School by IBUKU / Elora Hardy",
+        "subhead": "A new community wellness centre that is the product of 15 years of bamboo experimentation at the Green School in Bali, Indonesia",
+        "url": "",
+        "item": {
+          "primary_image": {
+            "id": 848196,
+            "child": {
+              "id": 700690,
+              "record_id": "IAA712658",
+              "published": true,
+              "hcp_item": false,
+              "award_winner": false,
+              "content_type": "image/tiff",
+              "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/551397dd-df6c-4e0c-ade5-c06cd60a4b21/content",
+              "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/551397dd-df6c-4e0c-ade5-c06cd60a4b21/download",
+              "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/551397dd-df6c-4e0c-ade5-c06cd60a4b21/iiif",
+              "content_inline_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/551397dd-df6c-4e0c-ade5-c06cd60a4b21/inline",
+              "content_info_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/551397dd-df6c-4e0c-ade5-c06cd60a4b21/info",
+              "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/551397dd-df6c-4e0c-ade5-c06cd60a4b21/preview",
+              "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/551397dd-df6c-4e0c-ade5-c06cd60a4b21/thumbnail",
+              "manifest_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/551397dd-df6c-4e0c-ade5-c06cd60a4b21/manifest",
+              "name": "The Arc at Green School_200261.jpg",
+              "media_type_id": 9,
+              "contributor": "<p>Aga Khan Trust for Culture</p>",
+              "year": 2025,
+              "copyright": "© Aga Khan Trust for Culture / Andreas Perbowo Widityawan (photographer)",
+              "source": "<p>Aga Khan Trust for Culture</p>",
+              "caption": "<p>On the campus of Green School Bali, the Arc is an innovative structure designed on the existing foundations of a former temporary gymnasium.</p>",
+              "external_id": null,
+              "external_source": null,
+              "media_type": {
+                "id": 9,
+                "name": "digital photograph",
+                "kind": "image"
+              }
+            }
+          },
+          "id": 21979,
+          "record_id": "AS107965",
+          "published": true,
+          "hcp_item": false,
+          "award_winner": false,
+          "place_name": "Bali",
+          "created_by_id": 6,
+          "country": {
+            "id": 101,
+            "name": "Indonesia",
+            "un_code": "ID",
+            "latitude": "-0.789275",
+            "longitude": "113.921327"
+          },
+          "name": "The Arc at Green School",
+          "distance": null
+        }
+      },
+      {
+        "id": 1287,
+        "item_id": 21990,
+        "item_type": "Site",
+        "label": "The Ned Hotel by David Chipperfield Architects",
+        "subhead": "A Brutalist structure in Doha, Qatar that was once the HQ of the Ministry of the Interior has been transformed into a boutique hotel",
+        "url": "",
+        "item": {
+          "primary_image": {
+            "id": 848339,
+            "child": {
+              "id": 700798,
+              "record_id": "IAA712766",
+              "published": true,
+              "hcp_item": false,
+              "award_winner": false,
+              "content_type": "image/tiff",
+              "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/a12a388f-73dd-4e02-b833-1849503e91ce/content",
+              "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/a12a388f-73dd-4e02-b833-1849503e91ce/download",
+              "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/a12a388f-73dd-4e02-b833-1849503e91ce/iiif",
+              "content_inline_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/a12a388f-73dd-4e02-b833-1849503e91ce/inline",
+              "content_info_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/a12a388f-73dd-4e02-b833-1849503e91ce/info",
+              "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/a12a388f-73dd-4e02-b833-1849503e91ce/preview",
+              "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/a12a388f-73dd-4e02-b833-1849503e91ce/thumbnail",
+              "manifest_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/a12a388f-73dd-4e02-b833-1849503e91ce/manifest",
+              "name": "The Ned_198836.jpg",
+              "media_type_id": 9,
+              "contributor": "<p>Aga Khan Trust for Culture</p>",
+              "year": 2025,
+              "copyright": "© Aga Khan Trust for Culture / Cemal Emden (photographer)",
+              "source": "<p>Aga Khan Trust for Culture</p>",
+              "caption": "<p>A new horizontal garden annex redefines the ground plane, by softening the building’s formerly rigid civic edge. It introduces landscaped transitions and a generous canopy that mediates between interior and exterior space.</p>",
+              "external_id": null,
+              "external_source": null,
+              "media_type": {
+                "id": 9,
+                "name": "digital photograph",
+                "kind": "image"
+              }
+            }
+          },
+          "id": 21990,
+          "record_id": "AS107976",
+          "published": true,
+          "hcp_item": false,
+          "award_winner": false,
+          "place_name": "الدوحة",
+          "created_by_id": 6,
+          "country": {
+            "id": 187,
+            "name": "Qatar",
+            "un_code": "QA",
+            "latitude": "25.354826",
+            "longitude": "51.183884"
+          },
+          "name": "The Ned Hotel",
+          "distance": null
+        }
+      },
+      {
+        "id": 1288,
+        "item_id": 21988,
+        "item_type": "Site",
+        "label": "Vision Pakistan by DB Studios / Mohammad Saifullah Siddiqui",
+        "subhead": "Located in a densely populated area in Islamabad, Pakistan and housing a charity for disadvantaged youth, the project is a multistorey facility that echoes the architecture of the 1960s",
+        "url": "",
+        "item": {
+          "primary_image": {
+            "id": 848310,
+            "child": {
+              "id": 700776,
+              "record_id": "IAA712744",
+              "published": true,
+              "hcp_item": false,
+              "award_winner": false,
+              "content_type": "image/tiff",
+              "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/4aee1949-338c-4718-b7c2-f86fdd25a4c1/content",
+              "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/4aee1949-338c-4718-b7c2-f86fdd25a4c1/download",
+              "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/4aee1949-338c-4718-b7c2-f86fdd25a4c1/iiif",
+              "content_inline_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/4aee1949-338c-4718-b7c2-f86fdd25a4c1/inline",
+              "content_info_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/4aee1949-338c-4718-b7c2-f86fdd25a4c1/info",
+              "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/4aee1949-338c-4718-b7c2-f86fdd25a4c1/preview",
+              "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/4aee1949-338c-4718-b7c2-f86fdd25a4c1/thumbnail",
+              "manifest_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/4aee1949-338c-4718-b7c2-f86fdd25a4c1/manifest",
+              "name": "Vision Pakistan_200877.jpg",
+              "media_type_id": 9,
+              "contributor": "<p>Aga Khan Trust for Culture</p>",
+              "year": 2025,
+              "copyright": "© Aga Khan Trust for Culture / Usman Saqib Zuberi (photographer)",
+              "source": "<p>Aga Khan Trust for Culture</p>",
+              "caption": "<p>Located on the side of a busy road, the site was chosen for its ease of access using public transportation. The client wanted to ensure that all students coming to the school would be able to come by their own means.</p>",
+              "external_id": null,
+              "external_source": null,
+              "media_type": {
+                "id": 9,
+                "name": "digital photograph",
+                "kind": "image"
+              }
+            }
+          },
+          "id": 21988,
+          "record_id": "AS107974",
+          "published": true,
+          "hcp_item": false,
+          "award_winner": false,
+          "place_name": "Islamabad",
+          "created_by_id": 6,
+          "country": {
+            "id": 178,
+            "name": "Pakistan",
+            "un_code": "PK",
+            "latitude": "30.375321",
+            "longitude": "69.345116"
+          },
+          "name": "Vision Pakistan",
+          "distance": null
+        }
+      },
+      {
+        "id": 1289,
+        "item_id": 21975,
+        "item_type": "Site",
+        "label": "West Wusutu Village Community Centre by Zhang Pengju",
+        "subhead": "Built from reclaimed bricks in Hohhot, Inner Mongolia, China, this project provides social and cultural spaces for residents and artists while addressing the religious needs of the local Hui Muslims",
+        "url": "",
+        "item": {
+          "primary_image": {
+            "id": 848436,
+            "child": {
+              "id": 700813,
+              "record_id": "IAA712781",
+              "published": true,
+              "hcp_item": false,
+              "award_winner": false,
+              "content_type": "image/tiff",
+              "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/8440c08b-05ae-44f0-bee6-13d3257ceb74/content",
+              "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/8440c08b-05ae-44f0-bee6-13d3257ceb74/download",
+              "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/8440c08b-05ae-44f0-bee6-13d3257ceb74/iiif",
+              "content_inline_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/8440c08b-05ae-44f0-bee6-13d3257ceb74/inline",
+              "content_info_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/8440c08b-05ae-44f0-bee6-13d3257ceb74/info",
+              "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/8440c08b-05ae-44f0-bee6-13d3257ceb74/preview",
+              "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/8440c08b-05ae-44f0-bee6-13d3257ceb74/thumbnail",
+              "manifest_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/8440c08b-05ae-44f0-bee6-13d3257ceb74/manifest",
+              "name": "West Wusutu Village Community Centre_202238.jpg",
+              "media_type_id": 9,
+              "contributor": "<p>Aga Khan Trust for Culture</p>",
+              "year": 2025,
+              "copyright": "<p>© Aga Khan Trust for Culture / Dou Yujun (photographer)</p>",
+              "source": "<p>Aga Khan Trust for Culture</p>",
+              "caption": "<p>Aerial view of the community centre. The village was the focus of a 2018 rural revitalisation initiative that led to widespread brick waste. In collaboration with villagers and local artists, architect Zhang Pengju proposed reusing these bricks to construct a low-cost, multifunctional community centre.&nbsp;</p>",
+              "external_id": null,
+              "external_source": null,
+              "media_type": {
+                "id": 9,
+                "name": "digital photograph",
+                "kind": "image"
+              }
+            }
+          },
+          "id": 21975,
+          "record_id": "AS107961",
+          "published": true,
+          "hcp_item": false,
+          "award_winner": false,
+          "place_name": "Hohhot",
+          "created_by_id": 6,
+          "country": {
+            "id": 48,
+            "name": "China",
+            "un_code": "CN",
+            "latitude": "35.86166",
+            "longitude": "104.195397"
+          },
+          "name": "West Wusutu Village Community Centre",
+          "distance": null
+        }
+      },
+      {
+        "id": 1290,
+        "item_id": 21989,
+        "item_type": "Site",
+        "label": "Wonder Cabinet by AAU Anastas",
+        "subhead": "  The project established a multi-purpose, non-profit exhibition and production space  overlooking the Al-Karkafeh Valley in Bethlehem, bringing together artists, engineers, designers and producers",
+        "url": "",
+        "item": {
+          "primary_image": {
+            "id": 848319,
+            "child": {
+              "id": 700782,
+              "record_id": "IAA712750",
+              "published": true,
+              "hcp_item": false,
+              "award_winner": false,
+              "content_type": "image/tiff",
+              "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6d1a6ba0-6ff4-459a-a144-b96aeea4456b/content",
+              "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6d1a6ba0-6ff4-459a-a144-b96aeea4456b/download",
+              "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6d1a6ba0-6ff4-459a-a144-b96aeea4456b/iiif",
+              "content_inline_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6d1a6ba0-6ff4-459a-a144-b96aeea4456b/inline",
+              "content_info_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6d1a6ba0-6ff4-459a-a144-b96aeea4456b/info",
+              "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6d1a6ba0-6ff4-459a-a144-b96aeea4456b/preview",
+              "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6d1a6ba0-6ff4-459a-a144-b96aeea4456b/thumbnail",
+              "manifest_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6d1a6ba0-6ff4-459a-a144-b96aeea4456b/manifest",
+              "name": "Wonder Cabinet_202041.jpg",
+              "media_type_id": 9,
+              "contributor": "<p>Aga Khan Trust for Culture</p>",
+              "year": 2025,
+              "copyright": "© Aga Khan Trust for Culture / Mikaela Burstow (photographer)",
+              "source": "<p>Aga Khan Trust for Culture</p>",
+              "caption": "<p>Western façade at sunrise. Decorative elements are minimal, consisting primarily of spinning stainless-steel letters on the roof acting as a weathervane.</p>",
+              "external_id": null,
+              "external_source": null,
+              "media_type": {
+                "id": 9,
+                "name": "digital photograph",
+                "kind": "image"
+              }
+            }
+          },
+          "id": 21989,
+          "record_id": "AS107975",
+          "published": true,
+          "hcp_item": false,
+          "award_winner": false,
+          "place_name": "Bethlehem",
+          "created_by_id": 6,
+          "country": {
+            "id": 183,
+            "name": "Palestine",
+            "un_code": "PS",
+            "latitude": "31.952162",
+            "longitude": "35.233154"
+          },
+          "name": "Wonder Cabinet",
+          "distance": null
+        }
+      },
+      {
+        "id": 1291,
+        "item_id": 2873,
+        "item_type": "Collection",
+        "label": "The Master Jury for the 16th Cycle",
+        "subhead": "Meet the internationally renowned experts who combed through over 360 projects the select the shortlist, and who will ultimately determine which projects will receive the award later this year",
+        "url": "",
+        "item": {
+          "primary_image": {
+            "id": 842978,
+            "child": {
+              "id": 696744,
+              "record_id": "IAA704063",
+              "published": true,
+              "hcp_item": false,
+              "award_winner": false,
+              "content_type": "image/tiff",
+              "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/99012218-ad9c-43f8-aced-69f47a4a196e/content",
+              "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/99012218-ad9c-43f8-aced-69f47a4a196e/download",
+              "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/99012218-ad9c-43f8-aced-69f47a4a196e/iiif",
+              "content_inline_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/99012218-ad9c-43f8-aced-69f47a4a196e/inline",
+              "content_info_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/99012218-ad9c-43f8-aced-69f47a4a196e/info",
+              "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/99012218-ad9c-43f8-aced-69f47a4a196e/preview",
+              "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/99012218-ad9c-43f8-aced-69f47a4a196e/thumbnail",
+              "manifest_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/99012218-ad9c-43f8-aced-69f47a4a196e/manifest",
+              "name": "IAA704063",
+              "media_type_id": 9,
+              "contributor": "<p>Aga Khan Trust for Culture</p>",
+              "year": 2024,
+              "copyright": null,
+              "source": "<p>Aga Khan Award for Architecture</p>",
+              "caption": null,
+              "external_id": null,
+              "external_source": null,
+              "media_type": {
+                "id": 9,
+                "name": "digital photograph",
+                "kind": "image"
+              }
+            }
+          },
+          "id": 2873,
+          "record_id": "COL102440",
+          "published": true,
+          "hcp_item": false,
+          "award_winner": false,
+          "name": "Aga Khan Award for Architecture 16th Cycle: 2025 Master Jury",
+          "display_name": "Aga Khan Award for Architecture 16th Cycle: 2025 Master Jury",
+          "created_by_id": 6
+        }
+      },
+      {
+        "id": 1292,
+        "item_id": 848,
+        "item_type": "Collection",
+        "label": "Archives of the Aga Khan Award for Architecture",
+        "subhead": "One of the most coveted awards in the field, the AKAA prize is also the cornerstone of a broader set of initiatives that raise awareness and promote the adoption of the standards of excellence in architecture, planning practices, historic preservation and landscape architecture exemplified by recipient and shortlisted projects since the completion of the first cycle in 1980  ",
+        "url": "",
+        "item": {
+          "primary_image": {
+            "id": 838153,
+            "child": {
+              "id": 692859,
+              "record_id": "IAA706322",
+              "published": true,
+              "hcp_item": null,
+              "award_winner": null,
+              "content_type": "image/tiff",
+              "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/3e4e3586-8f84-4c85-b6d3-622713174c5d/content",
+              "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/3e4e3586-8f84-4c85-b6d3-622713174c5d/download",
+              "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/3e4e3586-8f84-4c85-b6d3-622713174c5d/iiif",
+              "content_inline_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/3e4e3586-8f84-4c85-b6d3-622713174c5d/inline",
+              "content_info_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/3e4e3586-8f84-4c85-b6d3-622713174c5d/info",
+              "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/3e4e3586-8f84-4c85-b6d3-622713174c5d/preview",
+              "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/3e4e3586-8f84-4c85-b6d3-622713174c5d/thumbnail",
+              "manifest_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/3e4e3586-8f84-4c85-b6d3-622713174c5d/manifest",
+              "name": "IAA706322",
+              "media_type_id": 51,
+              "contributor": null,
+              "year": null,
+              "copyright": null,
+              "source": null,
+              "caption": null,
+              "external_id": null,
+              "external_source": null,
+              "media_type": {
+                "id": 51,
+                "name": "digital graphic",
+                "kind": "image"
+              }
+            }
+          },
+          "id": 848,
+          "record_id": "COL100656",
+          "published": true,
+          "hcp_item": null,
+          "award_winner": null,
+          "name": "Aga Khan Award for Architecture",
+          "display_name": null,
+          "created_by_id": 4
+        }
+      }
+    ],
+    "pages": [
+      {
+        "id": 4,
+        "url": "terms",
+        "title": "Terms of use",
+        "content": "<p>Archnet is an Open Access resource, provided to the public to facilitate cultural understanding and excellence in both scholarship and practice. Content from Archnet.org may not be published, displayed, or appropriated for commercial use without the expressed written permission of the copyright holder.</p><p><br></p><p>Unless otherwise noted, Archnet material is available for instructional, nonprofit use, and personal use on the terms of a <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\" rel=\"noopener noreferrer\" target=\"_blank\">Creative Commons Attribution-NonCommercial 4.0 International</a> (CC BY-NC 4.0) license.</p><p><br></p><p>Please contact Archnet to request permission to use the Archnet.org website and its contents beyond the scope outlined above. High-resolution images may be available by contacting us using <a href=\"mailto:archnet@mit.edu\" rel=\"noopener noreferrer\" target=\"_blank\">archnet@mit.edu</a>.</p><p><br></p><p>The content available on Archnet, including but not limited to information, text, graphics, logos, and multimedia related to the the <a href=\"https://www.archnet.org/authorities/1903\" rel=\"noopener noreferrer\" target=\"_blank\">Aga Khan Trust for Culture’</a>s programmes, such as the <a href=\"https://www.archnet.org/collections/54\" rel=\"noopener noreferrer\" target=\"_blank\">Historic Cities Programme</a>, the <a href=\"https://www.archnet.org/collections/848\" rel=\"noopener noreferrer\" target=\"_blank\">Aga Khan Award for Architecture</a> and the <a href=\"https://www.archnet.org/collections/132\" rel=\"noopener noreferrer\" target=\"_blank\">Aga Khan Music Programme</a>, may be protected by copyright, trademark, or other intellectual property rights and laws, whether owned by the Aga Khan Trust for Culture, its affiliates, or third parties. Unauthorized use, reproduction, distribution, modification, or display of this content is strictly prohibited without the express written permission of the respective copyright or trademark holder. Violation of this prohibition may result in legal penalties.</p>",
+        "published": true,
+        "order": 0,
+        "footer": true
+      },
+      {
+        "id": 10,
+        "url": "help",
+        "title": "Need help?",
+        "content": "<h2><strong>ARCHNET FAQ</strong></h2><p>1. <strong>Will ARCHNET work on my device?</strong></p><p>Archnet works well on the most recent version of any major browser (Chrome, Firefox, Safari, Edge), either on a mobile device or computer. It may work on older or less common browsers as well. If Archnet fails to work properly on your machine, please let us know about your experience by clicking the blue feedback button at bottom right!</p><p><strong>2. Will my URLs from earlier versions of Archnet still work?</strong></p><p>Yes, if they are from the version launched in January 2013. As of October 12, 2021, all URLs from the old Archnet have been redirected to ARCHNET.&nbsp;&nbsp;</p><p><strong>3. How do I download a/n:&nbsp;</strong></p><ul><li><strong>image</strong> - Select the image you want to download from search results, a site or an authority. The image will open in your browser.&nbsp;Right click to download.&nbsp;For larger, high-resolution copies, see contact us using archnet@mit.edu.&nbsp;</li><li><strong>publication</strong> - Open the page for the publication in your browser and click the download button. Reprinting Archnet publications is permissible only for personal use.&nbsp;Please contact us for any other requests.&nbsp;</li><li><strong>site descriptions and metadata </strong>- Site descriptions and metadata can be used for any nonprofit or educational organization with appropriate attribution to the authors and Archnet.&nbsp;</li><li><strong>video</strong> - Currently video downloads are not possible. If you'd like to use an Archnet video, please contact <a href=\"mailto:archnet@mit.edu\" rel=\"noopener noreferrer\" target=\"_blank\">archnet@mit.edu</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li></ul><p>See our <a href=\"https://www.archnet.org/pages/terms\" rel=\"noopener noreferrer\" target=\"_blank\">Terms of Use</a> for information on how you can use Archnnet material.</p><p><strong>4. Can I contribute material to Archnet?&nbsp;</strong></p><p>Yes!&nbsp;See our <a href=\"https://www.archnet.org/pages/contribute\" rel=\"noopener noreferrer\" target=\"_blank\">Contribute</a> page for more information.&nbsp;Calls for specific contributions are also also shared in our social media and on the <a href=\"https://libraries.mit.edu/akdc/category/contributors/\" rel=\"noopener noreferrer\" target=\"_blank\">web site of the Aga Khan Documentation Center at MIT</a>.&nbsp;&nbsp;</p><p><strong>5. What happened to the Archnet Timeline?&nbsp;</strong></p><p>Timeline has migrated into the ARCHNET NEXT Collections page&nbsp;<a href=\"https://www.archnet.org/collections/collection_type/3/1\" rel=\"noopener noreferrer\" target=\"_blank\">as a category</a>. These collections provide short introductions for each period, often offering lists of additional resources at the end of the entry. Only the timeline graphic listing the periods along a chronological axis has not migrated.</p><p><strong>6. My question isn't here.&nbsp;How can I get help?&nbsp;</strong></p><p>If your issue is with using Archnet, use the blue Feedback button to alert us to your issue. This will allow you to include a screenshot or recording. Please, also, feel free to contact us at <a href=\"mailto:archnet@mit.edu\" rel=\"noopener noreferrer\" target=\"_blank\">archnet@mit.edu</a></p><p><strong>We are currently developing the help section of ARCHNET NEXT. In the meantime, please use the blue Feedback button in ARCHNET NEXT to send us feedback or other questions. Contact us at </strong><a href=\"mailto:archnet@mit.edu\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>archnet@mit.edu</strong></a><strong>.</strong></p><p>&nbsp;</p>",
+        "published": true,
+        "order": 0,
+        "footer": true
+      },
+      {
+        "id": 103,
+        "url": "about",
+        "title": "About",
+        "content": "<p><strong>Welcome to ARCHNET, an Open Access, interdisciplinary, intellectual resource focused on the built environment of Muslim societies.</strong></p><p>Our mission:&nbsp;</p><ul><li>Facilitate excellence in scholarship, and professional work by providing ready access to quality, unique texts, and media focused on architecture, urbanism, environmental and landscape design, conservation issues, visual and material cultures, and related topics, both historically and in terms of contemporary best practices.</li><li>Enable teaching and learning in these domains by providing educators with reliable, effective pedagogical material and teaching aids.&nbsp;</li><li>Serve as a platform through which scholars, practitioners, and institutions can bring their work to new global audiences.&nbsp;</li><li>Promote intercultural understanding and dialogue through reliable, high-quality, peer-reviewed material on the diversity of, and pluralism within Muslim societies and the interaction between Islamic and other religious, cultural, and philosophical traditions.</li><li>Enable easy access to a wide variety of resources via a custom-built, web-based, mobile-friendly platform optimized to minimize financial, infrastructural, linguistic, and other barriers to access.&nbsp;&nbsp;</li></ul><p>Launched in 2002 after several years of development, ARCHNET is a pioneering digital resource that has proven a reliable authority on the built environment of Muslim societies, past, and present.&nbsp;</p><p>ARCHNET is a partnership between the <a href=\"https://www.archnet.org/collections/1342\" rel=\"noopener noreferrer\" target=\"_blank\">Aga Khan Documentation Center, MIT Libraries </a>(AKDC@MIT) and the <a href=\"https://www.archnet.org/authorities/1903\" rel=\"noopener noreferrer\" target=\"_blank\">Aga Khan Trust for Culture</a> (AKTC), with support from the Aga Khan Program for Islamic Architecture at Harvard and MIT. ARCHNET NEXT was developed by <a href=\"https://www.performantsoftware.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Performant Software Solutions</a>.</p>",
+        "published": true,
+        "order": 0,
+        "footer": true
+      },
+      {
+        "id": 3,
+        "url": "contribute",
+        "title": "Contribute",
+        "content": "<p>Archnet is a community-powered resource that provides ready access to visual and textual material to facilitate teaching, scholarship, and professional work of high quality.&nbsp;This unparalleled resource continues to grow with both the addition of historic archives and documentation on contemporary trends shaping the built environment today.&nbsp;To better serve you, our user, in the study of art and architecture of Muslim societies, we continue to build our vast collection of sites, publications, images, and videos. To ensure a high level of scholarly content and accuracy in the information provided, we appreciate your expert feedback and, more importantly, your contributions.</p><p>.&nbsp;&nbsp;</p><ul><li>Please send comments, corrections, commendations, and other feedback to <a href=\"mailto:archnet@mit.edu\" rel=\"noopener noreferrer\" target=\"_blank\">archnet@mit.edu</a>.&nbsp;</li><li>If you find sites on Archnet to which you can contribute in compelling and meaningful ways, your generosity is most welcome. If you would be interested in contributing research, publications or other media to Archnet, please contact us using <a href=\"about:blank\" rel=\"noopener noreferrer\" target=\"_blank\">archnet-submission@mit.edu</a>.&nbsp;</li><li>We invite contributions of relevant, previously published, Open Access or copyrighted material for which you are able to grant Archnet a non-exclusive license. Please contact us using <a href=\"about:blank\" rel=\"noopener noreferrer\" target=\"_blank\">archnet-submission@mit.edu</a>.&nbsp;</li><li>We invite the contribution of syllabi, lesson plans, recorded lectures, or other material for our pedagogy project. Please contact us using <a href=\"about:blank\" rel=\"noopener noreferrer\" target=\"_blank\">archnet-submission@mit.edu</a>.&nbsp;</li><li>We welcome the donation of select archives based on our current editorial policies and priorities.&nbsp;If you have a collection you would like to bring to the attention of Archnet's editors, please send an email to: <a href=\"http://mailto: archnet-submission@mit.edu/\" rel=\"noopener noreferrer\" target=\"_blank\">archnet-submission@mit.edu</a>.</li><li>Occasionally, Archnet editors issue calls for contributions on specific themes or of particular types of material. Follow those on the <a href=\"https://libraries.mit.edu/akdc/category/contributors/\" rel=\"noopener noreferrer\" target=\"_blank\">website of AKDC@MIT </a>or <a href=\"https://mailchi.mp/17fc345bbd94/archnetakdc-updates\" rel=\"noopener noreferrer\" target=\"_blank\">subscribe to our mailing list</a>.</li></ul><p><br></p><p>The breadth, depth, and quality of Archnet is oachieved through the generosity of numerous institutions and individuals listed on the respective pages throughout the site.&nbsp;We thank you for your generosity!</p>",
+        "published": true,
+        "order": 0,
+        "footer": true
+      }
+    ]
+  },
+  "__N_SSG": true
+}
